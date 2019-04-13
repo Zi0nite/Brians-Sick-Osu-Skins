@@ -15,3 +15,11 @@ Click on the skin name to download.
 
 # [# Kochiya](https://drive.google.com/file/d/1YcwaNpadW9P57EPqJtZ5MTRThayk12Nk/view)
 ![](https://osu.ppy.sh/ss/13029001)
+
+# [Karthy V4.1]
+
+# [Karthy V4.6]
+
+# [Freddie Benson Green]
+
+# [Freddie Benson Purple]
