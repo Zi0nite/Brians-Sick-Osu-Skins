@@ -22,6 +22,6 @@ Click on the skin name to download.
 # [Karthy DT](https://www.mediafire.com/file/0hu64ypb6wo29yb/Karthy_DT.osk/file)
 ![](https://osu.ppy.sh/ss/13029046)
 
-# [Freddie Benson Green]
-
-# [Freddie Benson Purple]
+# [Freddie Benson Green](https://www.mediafire.com/file/t4stxdtmsd9a76m/heydt+rafiswomb+greenblue.osk)
+![](http://osu.ppy.sh/ss/13029055)
+# [Freddie Benson Purple](http://www.mediafire.com/file/zjh6pw4njayq0at/-%2BHey%2BDT%2BPurple.osk)
