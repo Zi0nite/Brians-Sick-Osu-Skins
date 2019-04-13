@@ -18,6 +18,10 @@ Click on the skin name to download.
 
 # [Karthy V4.1](https://www.mediafire.com/file/0rcb1vbexdzhphw/Karthy%2Bv4.1.osk)
 ![](http://osu.ppy.sh/ss/13029040)
+
+# [Karthy DT](https://www.mediafire.com/file/0hu64ypb6wo29yb/Karthy_DT.osk/file)
+![](https://osu.ppy.sh/ss/13029046)
+
 # [Freddie Benson Green]
 
 # [Freddie Benson Purple]
