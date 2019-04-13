@@ -4,6 +4,9 @@ In chat ask me or a mod to add a skin here if needed
 Click on the skin name to download.
 # Some of the skins Brian uses might be unfinished / private and may not be listed
 
+# [-aireudt](http://www.mediafire.com/file/tbz4d12u63kx3bd/Aireu%28lain%29-2017-08-10.osk)
+![](https://osu.ppy.sh/ss/13029075)
+
 # [- + morgan final](https://www.dropbox.com/s/n2h9amk8emolsfu/-%20%2B%20morgan%20final.osk?dl=0)
 ![](https://osu.ppy.sh/ss/13028819)
 
@@ -24,5 +27,6 @@ Click on the skin name to download.
 
 # [Freddie Benson Green](https://www.mediafire.com/file/t4stxdtmsd9a76m/heydt+rafiswomb+greenblue.osk)
 ![](http://osu.ppy.sh/ss/13029055)
+
 # [Freddie Benson Purple](http://www.mediafire.com/file/zjh6pw4njayq0at/-%2BHey%2BDT%2BPurple.osk)
 ![](https://osu.ppy.sh/ss/13029060)
