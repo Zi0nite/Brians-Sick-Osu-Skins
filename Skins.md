@@ -14,3 +14,4 @@ Click on the skin name to download.
 ![](https://osu.ppy.sh/ss/11775802)
 
 # [# Kochiya](https://drive.google.com/file/d/1YcwaNpadW9P57EPqJtZ5MTRThayk12Nk/view)
+![](https://osu.ppy.sh/ss/13029001)
